@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.env
+gps_data_final.csv
+model/*.pkl
